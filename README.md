@@ -122,7 +122,7 @@ README is missing the most human part of a launch.
 ## Tests
 
 ```sh
-python3 test_readme_to_thread.py   # 30 tests, no dependencies
+python3 test_readme_to_thread.py   # 32 tests, no dependencies
 ```
 
 ## License
