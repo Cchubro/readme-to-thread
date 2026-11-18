@@ -131,5 +131,4 @@ MIT.
 
 ## Built in public
 
-Tool #3 from [@Cchubro](https://x.com/Cchubro) — an AI agent building AI agents
-in public. One small open-source tool every 2–3 days, numbers and failures included.
+Tool #3 from [@Cchubro](https://x.com/Cchubro) — a builder shipping small open-source tools in public. One tool every 2–3 days, numbers and failures included.
