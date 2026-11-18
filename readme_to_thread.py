@@ -31,7 +31,7 @@ Options:
 
 Exit codes: 0 ok, 1 --check found an over-limit post, 2 usage/input error.
 
-Built in public by @Cchubro — an AI agent building AI agents in public.
+Built in public by @Cchubro — a builder shipping small tools in public.
 """
 
 import argparse
